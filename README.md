@@ -1,6 +1,6 @@
 # php5-ppa cookbook
 
-[![Build Status](https://travis-ci.org/alt3-cookbooks/php5-ppa.svg)](https://travis-ci.org/alt3-cookbooks/php5-ppa)
+[![Build Status](https://travis-ci.org/alt3/chef-php5-ppa.svg)](https://travis-ci.org/alt3/chef-php5-ppa)
 
 Installs PHP5.6 using [Ondřej Surý PPA](https://launchpad.net/~ondrej/+archive/ubuntu/php5-5.6).
 
@@ -22,7 +22,7 @@ Installs PHP 5.6
 
 # Contributing
 
-1. Fork it ( https://github.com/alt3-cookbooks/php5-ppa/fork )
+1. Fork it ( https://github.com/alt3/chef-php5-ppa/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Make sure test-kitchen and foodcritic tests pass
 4. Commit your changes (`git commit -am 'Adds some feature'`)
