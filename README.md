@@ -16,7 +16,7 @@ This cookbook is test-kitchen tested against the following platforms:
 
 # Recipes
 
-## git-ppa::default
+## php5-ppa::default
 
 Installs PHP 5.6
 
